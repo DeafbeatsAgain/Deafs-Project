@@ -1,0 +1,9 @@
+Scale: ???
+
+Guts
+(was called 'terror') The higher the guts score, the more resilient the character is to Terror.
+
+Weird
+
+
+Luck
